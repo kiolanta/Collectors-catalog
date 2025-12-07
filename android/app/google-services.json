@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "315063476023",
+    "project_id": "collectors-catalog-3ec8c",
+    "storage_bucket": "collectors-catalog-3ec8c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315063476023:android:a631c66ff73bbf5b6c84b2",
+        "android_client_info": {
+          "package_name": "com.example.collectors_catalog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASMIU1Buq9ZczuXibhL0towX5m57A_Kwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
