@@ -1,4 +1,4 @@
 storePassword=123456
 keyPassword=123456
 keyAlias=my-key-alias
-storeFile=../app/my-upload-key.jks
+storeFile=app/my-upload-key.jks
